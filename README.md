@@ -1,4 +1,4 @@
-#Projeto de Previsão do Tempo - Aplicação Web
+# Projeto de Previsão do Tempo - Aplicação Web
 
 Este projeto consiste em uma aplicação web que exibe a previsão do tempo para qualquer cidade do mundo, utilizando a API da OpenWeatherMap. 
 A interface foi desenvolvida com HTML, CSS e JavaScript, e permite que o usuário insira o nome de uma cidade para consultar as condições climáticas em tempo real.
