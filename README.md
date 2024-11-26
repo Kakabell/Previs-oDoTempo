@@ -23,7 +23,7 @@ A interface foi desenvolvida com HTML, CSS e JavaScript, e permite que o usuári
 - Manipulação de DOM: Atualização dinâmica dos elementos da página com base nos dados recebidos.
 - Unidades métricas e idioma: Configuradas para exibir as informações em português e temperatura em graus Celsius.
 
-Como Funciona?
+### Como Funciona?
 - O usuário insere o nome de uma cidade no campo de texto.
 - Ao clicar no botão de busca, a aplicação envia uma requisição para a API OpenWeatherMap.
 - Os dados meteorológicos retornados pela API são processados e exibidos na tela.
