@@ -1,4 +1,4 @@
-const key = "991d77f3e2da29072e42f877c4146dfb"
+const key = "SUA KEY AQUI"
 
 function colocarDadosNaTela(dados) {
 
